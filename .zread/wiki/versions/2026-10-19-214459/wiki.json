@@ -1,0 +1,235 @@
+{
+  "id": "2026-10-19-214459",
+  "generated_at": "2026-10-19T13:44:59.4041048Z",
+  "language": "zh",
+  "pages": [
+    {
+      "slug": "1-gai-shu-rea-ge-lian-jie-ai-dai-li-de-ni-xiang-gong-cheng-cli-yu-mcp-fu-wu-qi",
+      "title": "概述：REA——一个连接 AI 代理的逆向工程 CLI 与 MCP 服务器",
+      "file": "1-gai-shu-rea-ge-lian-jie-ai-dai-li-de-ni-xiang-gong-cheng-cli-yu-mcp-fu-wu-qi.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-kuai-su-kai-shi-zhu-ce-dai-li-fa-qi-di-ci-diao-cha-yu-zhong-duan-zhi-yong",
+      "title": "快速开始：注册代理、发起第一次调查与终端直用",
+      "file": "2-kuai-su-kai-shi-zhu-ce-dai-li-fa-qi-di-ci-diao-cha-yu-zhong-duan-zhi-yong.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-an-zhuang-yu-dai-li-pei-zhi-shou-zhi-chi-ke-hu-duan-shi-wu-shi-xie-ru-yu-yuan-sheng-yin-qing-qian-zhi-tiao-jian",
+      "title": "安装与代理配置：受支持客户端、事务式写入与原生引擎前置条件",
+      "file": "3-an-zhuang-yu-dai-li-pei-zhi-shou-zhi-chi-ke-hu-duan-shi-wu-shi-xie-ru-yu-yuan-sheng-yin-qing-qian-zhi-tiao-jian.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "4-cli-shi-yong-yu-jiu-xu-zhen-duan-rea-ming-ling-json-shu-chu-yu-doctor-jian-cha",
+      "title": "CLI 使用与就绪诊断：rea 命令、JSON 输出与 doctor 检查",
+      "file": "4-cli-shi-yong-yu-jiu-xu-zhen-duan-rea-ming-ling-json-shu-chu-yu-doctor-jian-cha.md",
+      "section": "入门指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "5-fen-ceng-jia-gou-zong-lan-ru-kou-zu-he-ying-yong-ti-gong-zhe-yu-ling-yu-ceng-de-yi-lai-gui-ze",
+      "title": "分层架构总览：入口、组合、应用、提供者与领域层的依赖规则",
+      "file": "5-fen-ceng-jia-gou-zong-lan-ru-kou-zu-he-ying-yong-ti-gong-zhe-yu-ling-yu-ceng-de-yi-lai-gui-ze.md",
+      "section": "深入解析",
+      "group": "架构与设计哲学",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "6-zheng-ju-yu-bu-que-ding-xing-mo-xing-guan-cha-tui-dao-tui-duan-yu-wei-zhi-de-bao-liu-yu-yi",
+      "title": "证据与不确定性模型：观察、推导、推断与未知的保留语义",
+      "file": "6-zheng-ju-yu-bu-que-ding-xing-mo-xing-guan-cha-tui-dao-tui-duan-yu-wei-zhi-de-bao-liu-yu-yi.md",
+      "section": "深入解析",
+      "group": "架构与设计哲学",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "7-mcp-gong-ju-she-ji-yuan-ze-liu-chong-ren-wu-xing-zhuang-yuan-yu-you-xian-yu-qi-yue-yan-ge-xing",
+      "title": "MCP 工具设计原则：六种任务形状、原语优先与契约严格性",
+      "file": "7-mcp-gong-ju-she-ji-yuan-ze-liu-chong-ren-wu-xing-zhuang-yuan-yu-you-xian-yu-qi-yue-yan-ge-xing.md",
+      "section": "深入解析",
+      "group": "架构与设计哲学",
+      "level": "Advanced"
+    },
+    {
+      "slug": "8-mcp-qi-yue-can-kao-gong-ju-jie-guo-bao-liu-zheng-ju-hui-hua-fa-xian-yu-qu-xiao-hui-fu",
+      "title": "MCP 契约参考：工具结果、保留证据、会话发现与取消恢复",
+      "file": "8-mcp-qi-yue-can-kao-gong-ju-jie-guo-bao-liu-zheng-ju-hui-hua-fa-xian-yu-qu-xiao-hui-fu.md",
+      "section": "深入解析",
+      "group": "架构与设计哲学",
+      "level": "Advanced"
+    },
+    {
+      "slug": "9-xing-neng-you-hua-you-xian-ji-dai-li-ling-pai-fen-xi-shi-jian-yu-zi-yuan-kai-xiao-de-du-liang-fang-fa",
+      "title": "性能优化优先级：代理令牌、分析时间与资源开销的度量方法",
+      "file": "9-xing-neng-you-hua-you-xian-ji-dai-li-ling-pai-fen-xi-shi-jian-yu-zi-yuan-kai-xiao-de-du-liang-fang-fa.md",
+      "section": "深入解析",
+      "group": "架构与设计哲学",
+      "level": "Advanced"
+    },
+    {
+      "slug": "10-yuan-sheng-er-jin-zhi-diao-cha-gong-zuo-liu-han-shu-dang-an-yin-yong-yu-go-rust-yuan-shu-ju-chi-xian-bu-ju-zhen-duan",
+      "title": "原生二进制调查工作流：函数档案、引用与 Go/Rust 元数据、离线布局诊断",
+      "file": "10-yuan-sheng-er-jin-zhi-diao-cha-gong-zuo-liu-han-shu-dang-an-yin-yong-yu-go-rust-yuan-shu-ju-chi-xian-bu-ju-zhen-duan.md",
+      "section": "深入解析",
+      "group": "原生二进制分析",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "11-ghidra-ji-cheng-lin-shi-shu-ju-ku-kuai-zhao-sheng-ming-zhou-qi-yu-duo-jia-gou-yu-yi-pei-zhi",
+      "title": "Ghidra 集成：临时数据库、快照生命周期与多架构语义配置",
+      "file": "11-ghidra-ji-cheng-lin-shi-shu-ju-ku-kuai-zhao-sheng-ming-zhou-qi-yu-duo-jia-gou-yu-yi-pei-zhi.md",
+      "section": "深入解析",
+      "group": "原生二进制分析",
+      "level": "Advanced"
+    },
+    {
+      "slug": "12-hopper-ji-cheng-python-qiao-unix-tao-jie-zi-xie-yi-yu-mu-biao-zu-yue",
+      "title": "Hopper 集成：Python 桥、Unix 套接字协议与目标租约",
+      "file": "12-hopper-ji-cheng-python-qiao-unix-tao-jie-zi-xie-yi-yu-mu-biao-zu-yue.md",
+      "section": "深入解析",
+      "group": "原生二进制分析",
+      "level": "Advanced"
+    },
+    {
+      "slug": "13-ida-cutter-yu-kuna-ti-gong-zhe-zhi-du-bang-ding-yu-shang-you-mcp-gua-pei",
+      "title": "IDA、Cutter 与 Kuna 提供者：只读绑定与上游 MCP 适配",
+      "file": "13-ida-cutter-yu-kuna-ti-gong-zhe-zhi-du-bang-ding-yu-shang-you-mcp-gua-pei.md",
+      "section": "深入解析",
+      "group": "原生二进制分析",
+      "level": "Advanced"
+    },
+    {
+      "slug": "14-beng-kui-zhuan-chu-yu-diao-shi-qi-qiao-jie-pwndbg-pwntools-yu-gdb-rizin-lldb-hui-hua",
+      "title": "崩溃转储与调试器桥接：pwndbg、pwntools 与 GDB/Rizin/LLDB 会话",
+      "file": "14-beng-kui-zhuan-chu-yu-diao-shi-qi-qiao-jie-pwndbg-pwntools-yu-gdb-rizin-lldb-hui-hua.md",
+      "section": "深入解析",
+      "group": "原生二进制分析",
+      "level": "Advanced"
+    },
+    {
+      "slug": "15-javascript-yu-electron-jing-tai-fen-xi-asar-du-qu-mo-kuai-tu-yu-yuan-ma-hui-fu",
+      "title": "JavaScript 与 Electron 静态分析：ASAR 读取、模块图与源码恢复",
+      "file": "15-javascript-yu-electron-jing-tai-fen-xi-asar-du-qu-mo-kuai-tu-yu-yuan-ma-hui-fu.md",
+      "section": "深入解析",
+      "group": "JavaScript 与 Web 分析",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "16-liu-lan-qi-chang-jing-yu-cdp-guan-cha-bu-huo-cun-chu-chang-jing-dui-bi-yu-jie-tu-zheng-ju",
+      "title": "浏览器场景与 CDP 观察：捕获存储、场景对比与截图证据",
+      "file": "16-liu-lan-qi-chang-jing-yu-cdp-guan-cha-bu-huo-cun-chu-chang-jing-dui-bi-yu-jie-tu-zheng-ju.md",
+      "section": "深入解析",
+      "group": "JavaScript 与 Web 分析",
+      "level": "Advanced"
+    },
+    {
+      "slug": "17-yun-xing-shi-guan-cha-yu-jing-tai-diao-he-v8-inspector-electron-bian-jie-yu-fuses-jian-cha",
+      "title": "运行时观察与静态调和：V8 Inspector、Electron 边界与 Fuses 检查",
+      "file": "17-yun-xing-shi-guan-cha-yu-jing-tai-diao-he-v8-inspector-electron-bian-jie-yu-fuses-jian-cha.md",
+      "section": "深入解析",
+      "group": "JavaScript 与 Web 分析",
+      "level": "Advanced"
+    },
+    {
+      "slug": "18-wang-luo-bu-huo-yu-shu-ju-bao-fen-xi-pcap-mitmproxy-qlog-yu-http-3-shi-yan-shi",
+      "title": "网络捕获与数据包分析：pcap、mitmproxy、qlog 与 HTTP/3 实验室",
+      "file": "18-wang-luo-bu-huo-yu-shu-ju-bao-fen-xi-pcap-mitmproxy-qlog-yu-http-3-shi-yan-shi.md",
+      "section": "深入解析",
+      "group": "JavaScript 与 Web 分析",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "19-android-yu-apk-fen-xi-jadx-apktool-yu-adb-she-bei-qu-zheng",
+      "title": "Android 与 APK 分析：JADX、Apktool 与 ADB 设备取证",
+      "file": "19-android-yu-apk-fen-xi-jadx-apktool-yu-adb-she-bei-qu-zheng.md",
+      "section": "深入解析",
+      "group": "移动与混合应用",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "20-apple-ying-yong-yu-yuan-sheng-macos-fen-xi-mach-o-objc-swift-yuan-shu-ju-yu-yuan-sheng-ui",
+      "title": "Apple 应用与原生 macOS 分析：Mach-O、ObjC/Swift 元数据与原生 UI",
+      "file": "20-apple-ying-yong-yu-yuan-sheng-macos-fen-xi-mach-o-objc-swift-yuan-shu-ju-yu-yuan-sheng-ui.md",
+      "section": "深入解析",
+      "group": "移动与混合应用",
+      "level": "Advanced"
+    },
+    {
+      "slug": "21-flutter-yu-hong-meng-ying-yong-fen-xi-dart-elf-zai-he-yu-harmonyos-bao-jian-cha",
+      "title": "Flutter 与鸿蒙应用分析：DART ELF 载荷与 HarmonyOS 包检查",
+      "file": "21-flutter-yu-hong-meng-ying-yong-fen-xi-dart-elf-zai-he-yu-harmonyos-bao-jian-cha.md",
+      "section": "深入解析",
+      "group": "移动与混合应用",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "22-net-cheng-xu-ji-jing-tai-fen-xi-pe-cli-yuan-shu-ju-cheng-yuan-yu-il-jie-ma",
+      "title": ".NET 程序集静态分析：PE/CLI 元数据、成员与 IL 解码",
+      "file": "22-net-cheng-xu-ji-jing-tai-fen-xi-pe-cli-yuan-shu-ju-cheng-yuan-yu-il-jie-ma.md",
+      "section": "深入解析",
+      "group": "数据与运行时格式",
+      "level": "Advanced"
+    },
+    {
+      "slug": "23-gu-jian-yu-qian-ru-shi-fen-xi-binwalk-unblob-gua-pei-yu-xin-hao-lu-zhi",
+      "title": "固件与嵌入式分析：Binwalk/Unblob 适配与信号录制",
+      "file": "23-gu-jian-yu-qian-ru-shi-fen-xi-binwalk-unblob-gua-pei-yu-xin-hao-lu-zhi.md",
+      "section": "深入解析",
+      "group": "数据与运行时格式",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "24-wasm-evm-zhi-neng-he-yue-yu-sqlite-jian-cha-wabt-evmole-yu-shu-ju-ku-kuai-zhao",
+      "title": "WASM、EVM 智能合约与 SQLite 检查：WABT、Evmole 与数据库快照",
+      "file": "24-wasm-evm-zhi-neng-he-yue-yu-sqlite-jian-cha-wabt-evmole-yu-shu-ju-ku-kuai-zhao.md",
+      "section": "深入解析",
+      "group": "数据与运行时格式",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "25-jin-cheng-suo-you-quan-yu-sheng-ming-zhou-qi-jian-du-si-you-yun-xing-shi-jie-zhi-shi-jian-yu-qing-li-zhong-shi",
+      "title": "进程所有权与生命周期监督：私有运行时、截止时间与清理重试",
+      "file": "25-jin-cheng-suo-you-quan-yu-sheng-ming-zhou-qi-jian-du-si-you-yun-xing-shi-jie-zhi-shi-jian-yu-qing-li-zhong-shi.md",
+      "section": "深入解析",
+      "group": "进程与资源安全",
+      "level": "Advanced"
+    },
+    {
+      "slug": "26-windows-yuan-sheng-bian-jie-ntfs-zhun-ru-zuo-ye-dui-xiang-yu-pu-tong-yong-hu-quan-xian-yan-zheng",
+      "title": "Windows 原生边界：NTFS 准入、作业对象与普通用户权限验证",
+      "file": "26-windows-yuan-sheng-bian-jie-ntfs-zhun-ru-zuo-ye-dui-xiang-yu-pu-tong-yong-hu-quan-xian-yan-zheng.md",
+      "section": "深入解析",
+      "group": "进程与资源安全",
+      "level": "Advanced"
+    },
+    {
+      "slug": "27-ce-shi-ce-lue-yu-yan-zheng-tong-dao-yuan-ma-bian-jie-yan-shou-zhi-xing-ji-zhen-shi-gong-ju-lian-tong-dao",
+      "title": "测试策略与验证通道：源码、边界、验收、一致性及真实工具链通道",
+      "file": "27-ce-shi-ce-lue-yu-yan-zheng-tong-dao-yuan-ma-bian-jie-yan-shou-zhi-xing-ji-zhen-shi-gong-ju-lian-tong-dao.md",
+      "section": "深入解析",
+      "group": "开发者指南",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "28-gong-xian-liu-cheng-yu-pr-jiu-xu-gui-fan-wen-ti-bao-gao-ren-gong-suo-you-quan-yu-ti-jiao-yue-ding",
+      "title": "贡献流程与 PR 就绪规范：问题报告、人工所有权与提交约定",
+      "file": "28-gong-xian-liu-cheng-yu-pr-jiu-xu-gui-fan-wen-ti-bao-gao-ren-gong-suo-you-quan-yu-ti-jiao-yue-ding.md",
+      "section": "深入解析",
+      "group": "开发者指南",
+      "level": "Beginner"
+    },
+    {
+      "slug": "29-fa-bu-liu-cheng-yu-wen-dang-zhan-dian-release-please-sheng-cheng-mu-lu-yu-duo-yu-yan-wang-zhan",
+      "title": "发布流程与文档站点：release-please、生成目录与多语言网站",
+      "file": "29-fa-bu-liu-cheng-yu-wen-dang-zhan-dian-release-please-sheng-cheng-mu-lu-yu-duo-yu-yan-wang-zhan.md",
+      "section": "深入解析",
+      "group": "开发者指南",
+      "level": "Advanced"
+    }
+  ]
+}
